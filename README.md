@@ -35,11 +35,11 @@ The main brand and destination message receive the most attention, followed by t
 
 ### Grid & Spacing
 
-A **6-column grid** was used to keep elements aligned and maintain consistent spacing throughout the designs.
+A 6-column grid was used to keep elements aligned and maintain consistent spacing throughout the designs.
 
 ## Final Direction
 
-The final direction was selected because it created the strongest balance between **modern design, cultural identity, visual hierarchy, and readability**. The teal background and three-image layout also gave the poster a clean and premium travel-poster feel.
+The final direction was selected because it created the strongest balance between modern design, cultural identity, visual hierarchy, and readability. The teal background and three-image layout also gave the poster a clean and premium travel-poster feel.
 
 ## Project Outcome
 
